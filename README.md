@@ -1,4 +1,4 @@
-# Recipe Search App
+# Recipe Search App - [DEMO](https://recipe-search-app-omega.vercel.app/)
 
 A Next.js application that allows users to search for recipes using the Spoonacular API. Users can search by recipe name, cuisine type, and maximum preparation time.
 
